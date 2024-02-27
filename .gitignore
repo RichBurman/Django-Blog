@@ -7,4 +7,5 @@ __pycache__/
 node.modules/
 .github/
 cloudinary_python.txt
+blog/fixtures/
 
